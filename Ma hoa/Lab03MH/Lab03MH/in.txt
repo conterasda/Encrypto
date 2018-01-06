@@ -1,0 +1,2 @@
+Sinh vien thuc hien: Tran Chien Cong -1412062
+Ma nguon thuat toan AES:https://sourceforge.net/projects/libcrypt/
